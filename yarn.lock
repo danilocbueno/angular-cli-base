@@ -979,6 +979,22 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@ionic/angular@^5.4.1":
+  version "5.4.1"
+  resolved "https://registry.yarnpkg.com/@ionic/angular/-/angular-5.4.1.tgz#9b9baf95c1ed3af5bb31e4080f0208b042d8c218"
+  integrity sha512-jPUM6Mf7sjYHOevzCHvx5BKbn4gSWDVux6xyh1ZDextQUAEQhoRO/FV6ZjwlzVeoIKzEEN57oaF2zdPw8OFLZg==
+  dependencies:
+    "@ionic/core" "5.4.1"
+    tslib "^1.9.3"
+
+"@ionic/core@5.4.1":
+  version "5.4.1"
+  resolved "https://registry.yarnpkg.com/@ionic/core/-/core-5.4.1.tgz#c9e3e0193cb2899788bd01a4dcb5121552f0dcba"
+  integrity sha512-yONXeHjbVGUSL7zPgiCv0fQkw47VHJJ+8zVkYgTg4At+B0VhoLAMgS/ah3EUwSVTOATXdHa6Ak5+71uHPKpViQ==
+  dependencies:
+    ionicons "^5.1.2"
+    tslib "^1.10.0"
+
 "@istanbuljs/schema@^0.1.2":
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/@istanbuljs/schema/-/schema-0.1.2.tgz#26520bf09abe4a5644cd5414e37125a8954241dd"
@@ -4290,6 +4306,11 @@ invert-kv@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/invert-kv/-/invert-kv-2.0.0.tgz#7393f5afa59ec9ff5f67a27620d11c226e3eec02"
   integrity sha512-wPVv/y/QQ/Uiirj/vh3oP+1Ww+AWehmi1g5fFWGPF6IpCBCDVrhgHRMvrLfdYcwDh3QJbGXDW4JAuzxElLSqKA==
+
+ionicons@^5.1.2:
+  version "5.2.3"
+  resolved "https://registry.yarnpkg.com/ionicons/-/ionicons-5.2.3.tgz#af4018ea7585b1e9ae11757731c77f2f36e0c7ac"
+  integrity sha512-87qtgBkieKVFagwYA9Cf91B3PCahQbEOMwMt8bSvlQSgflZ4eE5qI4MGj2ZlIyadeX0dgo+0CzZsy3ow0CsBAg==
 
 ip-regex@^2.1.0:
   version "2.1.0"
@@ -8150,6 +8171,11 @@ tslib@1.10.0, tslib@^1.10.0, tslib@^1.8.1, tslib@^1.9.0:
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.10.0.tgz#c3c19f95973fb0a62973fb09d90d961ee43e5c8a"
   integrity sha512-qOebF53frne81cf0S9B41ByenJ3/IuH8yJKngAX35CmiZySA0khhkovshKK+jGCaMnVomla7gVlIcc3EvKPbTQ==
+
+tslib@^1.9.3:
+  version "1.14.1"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.14.1.tgz#cf2d38bdc34a134bcaf1091c41f6619e2f672d00"
+  integrity sha512-Xni35NKzjgMrwevysHTCArtLDpPvye8zV/0E4EyYn43P7/7qvQwPh9BGkHewbMulVntbigmcT7rdX3BNo9wRJg==
 
 tslint@6.0.0:
   version "6.0.0"

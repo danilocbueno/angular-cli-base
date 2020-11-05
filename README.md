@@ -9,3 +9,10 @@ On the terminal on your bottom right there is a + you can click to open a new ta
 ```
 yarn ng <your command>
 ```
+
+## Install Ionic
+
+```
+yarn add @ionic/angular@latest --save
+yarn ng add @ionic/angular
+```
